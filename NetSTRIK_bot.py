@@ -2,8 +2,8 @@
 #  Telegram bridge: يحوّل أي سكربت يعمل في الطرفية إلى بوت تيليجرام
 #  كل ما يطبعه السكربت يصل إلى تيليجرام، وكل input() يقرأ من تيليجرام
 # ============================================================
-TOKEN = "PUT_YOUR_TOKEN_HERE"   # <-- ضع التوكن هنا
-OWNER_ID = 0                    # 0 = أول شخص يراسل البوت يصبح المالك
+TOKEN = "8980281589:AAH6vqigCcbEjZf9T0XWbSro7a_nBZRcOd0"   # <-- ضع التوكن هنا
+OWNER_ID = 8766283758                    # 0 = أول شخص يراسل البوت يصبح المالك
 
 import sys as _sys, os as _os, re as _re, json as _json, time as _time
 import queue as _queue, threading as _threading, builtins as _builtins
